@@ -5,8 +5,8 @@
 	
 	
 	
-	//% color="#EE6A50" weight=10 icon="\uf085" block="servos"
-namespace servos {
+	//% color="#EE6A50" weight=10 icon="\uf085" block="serVos"
+namespace serVos {
 	
 	/**
 	 * 舵机
